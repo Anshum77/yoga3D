@@ -179,6 +179,15 @@ yoga3D/
 - [NEXT_STEPS.md](NEXT_STEPS.md)
 - [3D_MODELS_GUIDE.md](3D_MODELS_GUIDE.md)
 
+## Credits
+
+This project was developed at **IIT Jodhpur** under the guidance of **Prof. Dinesh Mohan Joshi**.
+
+### Contributors
+1. Sumit Kumar
+2. Bansode Anshum Achyut
+3. Aditya Ranjan
+
 ## License
 
 MIT
